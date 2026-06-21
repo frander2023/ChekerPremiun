@@ -6,4 +6,4 @@ git clone https://github.com/frander2023/ChekerPremiun
 
 ls
 
-python3 ChekerPremiun
+python3 ChekerPremiun.py
